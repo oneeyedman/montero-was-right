@@ -22,6 +22,8 @@ Las imágenes están en PNG y en SVG, si se usa el archivo .png, lo ideal es usa
 
 Están en la carpeta **/dist**.
 
+> Aunque en modo claro no se aprecie, las versiones de bordes redondeados y troquelada, tienen un borde blanco generoso.
+
 ## Más información
 
 - [Post original en Mastodon](https://mastodon.social/@oneeyedman/110952121226003213)
